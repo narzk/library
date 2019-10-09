@@ -1,1 +1,1 @@
-# library
+# Django project
